@@ -1,20 +1,14 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
-![Screenshot_1706044245](https://github.com/veer-anonymous/all-screens/assets/143478286/0958b32d-38fb-4edd-b616-3191ef2e17be)
 
 
-![Screenshot_1706044258](https://github.com/veer-anonymous/all-screens/assets/143478286/b7829db6-b97b-41b1-899a-2f3a6016d677)
+<img src=(https://github.com/veer-anonymous/all-screens/assets/143478286/ef39ff3e-6bc1-4800-a685-cea6c8326ca2)  widh='500' height="300" />
+
+<img src='(https://github.com/veer-anonymous/all-screens/assets/143478286/705e13c9-7f2c-4aa1-bbec-9825fe676525)'
+width='200' height='400' />
 
 
-![Screenshot_1706044265](https://github.com/veer-anonymous/all-screens/assets/143478286/b1ce3c95-7aca-462b-8a6e-26d11bcb0cda)
-
-
-![Screenshot_1706044273](https://github.com/veer-anonymous/all-screens/assets/143478286/6d5885f9-23c6-4f66-bda6-d1bf14c16263)
-
-<img src=(https://github.com/veer-anonymous/all-screens/assets/143478286/0958b32d-38fb-4edd-b616-3191ef2e17be) widh='500' height="300">
-
-
-<img src="https://github.com/veer-anonymous/all-screens/assets/143478286/0958b32d-38fb-4edd-b616-3191ef2e17be" width='200' height='400' />
+<img src="(https://github.com/veer-anonymous/all-screens/assets/143478286/a79645e0-504b-46fb-98a5-35bf8bb4ac6d)" width='200' height='400' />
 
 # Getting Started
 
