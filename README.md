@@ -2,13 +2,16 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 
 
-<img src=(https://github.com/veer-anonymous/all-screens/assets/143478286/ef39ff3e-6bc1-4800-a685-cea6c8326ca2)  widh='500' height="300" />
-
-<img src='(https://github.com/veer-anonymous/all-screens/assets/143478286/705e13c9-7f2c-4aa1-bbec-9825fe676525)'
-width='200' height='400' />
+<img src="https://github.com/veer-anonymous/all-screens/assets/143478286/ef39ff3e-6bc1-4800-a685-cea6c8326ca2" width='200' height='400' />
 
 
-<img src="(https://github.com/veer-anonymous/all-screens/assets/143478286/a79645e0-504b-46fb-98a5-35bf8bb4ac6d)" width='200' height='400' />
+
+<img src="https://github.com/veer-anonymous/all-screens/assets/143478286/a79645e0-504b-46fb-98a5-35bf8bb4ac6d" width='200' height='400' />
+
+
+<img src="https://github.com/veer-anonymous/all-screens/assets/143478286/7074083f-5551-433c-b445-cceaed658bd4" width='200' height='400' />
+
+
 
 # Getting Started
 
