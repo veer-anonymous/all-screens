@@ -11,6 +11,8 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 ![Screenshot_1706044273](https://github.com/veer-anonymous/all-screens/assets/143478286/6d5885f9-23c6-4f66-bda6-d1bf14c16263)
 
+<img src=![Screenshot_1706044245](https://github.com/veer-anonymous/all-screens/assets/143478286/0958b32d-38fb-4edd-b616-3191ef2e17be) widh='500' height="300">
+
 
 # Getting Started
 
