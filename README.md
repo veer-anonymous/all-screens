@@ -14,6 +14,8 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 <img src=(https://github.com/veer-anonymous/all-screens/assets/143478286/0958b32d-38fb-4edd-b616-3191ef2e17be) widh='500' height="300">
 
 
+<img src="https://github.com/veer-anonymous/all-screens/assets/143478286/0958b32d-38fb-4edd-b616-3191ef2e17be" width='200' height='400' />
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
